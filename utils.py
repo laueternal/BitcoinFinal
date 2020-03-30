@@ -119,7 +119,7 @@ def bindicators(df):
     df['RSI<30'] = np.where(df['RSI']<30., 1., 0.)
     df['RSI<20'] = np.where(df['RSI']<20., 1., 0.)
     
-    df['MA12>MA26'] = np.where(df['MA12']>df['MA26'], 1., 0.)
+    df['MA_s>MA_l'] = np.where(df['MA_s']>df['MA_l'], 1., 0.)
     
     return df
 
