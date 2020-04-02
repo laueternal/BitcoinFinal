@@ -14,4 +14,4 @@ Note: These are general factors that play a role in various trading strategies a
 
 The model is designed to predict a good time to either buy or sell your inventory of Bitcoin, so it uses logistic regression to classify each respective signal based on the data. A smoothed version of the price curve was created and ideal trading signals were derived from local extrema to maximize profit and minimize loss.
 
-![](BitcoinFinal/smooth.jpg)
+![](smooth.jpg)
