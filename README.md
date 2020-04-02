@@ -9,3 +9,9 @@ All data is currently acquired through the QuanDL api, and consists of daily OHL
 * Momentum features such as slope and acceleration
 * RSI indicators for being above/below thresholds
 * Several binary indicators 
+
+Note: These are general factors that play a role in various trading strategies and seemed potentially useful in constructing a baseline model. Further testing needs to be done to narrow down the most significant features and remove any that have little to no impact on predictions.
+
+The model is designed to predict a good time to either buy or sell your inventory of Bitcoin, so it uses logistic regression to classify each respective signal based on the data. A smoothed version of the price curve was created and ideal trading signals were derived from local extrema to maximize profit and minimize loss.
+
+![Ideal trading signals](/smooth.jpg "Ideal Signals")
