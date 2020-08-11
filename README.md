@@ -17,4 +17,4 @@ The model is designed to predict a good time to either buy or sell your inventor
 ![](smooth.jpg)
 
 ### **Training**
-Using these as a baseline for trading on a timescale of multiple days to weeks we can begin training a model to detect similar moments in the future.
+Using these as a baseline for trading on a timescale of multiple days to weeks we can begin training a model to detect similar moments in the future. With limited training the model is able to produce the following results:
