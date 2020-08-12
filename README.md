@@ -38,3 +38,10 @@ Avg. Up Month: 24.21%
 Avg. Down Month: -5.86%  
 
 ###**Conclusion**
+Even with limited training and little to no refinement the model still produced desirable results compared to the simple buy-and-hold strategy. Bitcoin underwent abnormal price swings of significant amplitude so the "perfect" trading strategy would have garnered an enormous profit. It is possible that the overall similar profile of the pricing data over the years selected may contribute to the model's effectiveness, and it remains to be seen if changing patterns or behaviors in Bitcoin data will negatively impact performance.  
+
+Next steps:  
+1. Identify/refine which features are most important to results  
+2. Compare with NN approach  
+3. Test blended models  
+4. Test model on other currencies
