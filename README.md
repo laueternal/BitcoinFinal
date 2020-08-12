@@ -25,16 +25,16 @@ Daily Sharpe: 1.03
 Avg. Up Month: 30.76%  
 Avg. Down Month: -12.72%  
  
-**"Perfect" predictions**:
-Total Return: 105033.3%
-Daily Sharpe: 3.48
-Avg. Up Month: 25.34%
-Avg. Down Month: -0.47%
+**"Perfect" predictions**:  
+Total Return: 105033.3%  
+Daily Sharpe: 3.48  
+Avg. Up Month: 25.34%  
+Avg. Down Month: -0.47%  
  
-**Model**:
-Total Return: 9084.38%
-Daily Sharpe: 2.43
-Avg. Up Month: 24.21%
-Avg. Down Month: -5.86%
+**Model**:  
+Total Return: 9084.38%  
+Daily Sharpe: 2.43  
+Avg. Up Month: 24.21%  
+Avg. Down Month: -5.86%  
 
 ###**Conclusion**
