@@ -19,7 +19,15 @@ The model is designed to predict a good time to either buy or sell your inventor
 ### **Training**
 Using these as a baseline for trading on a timescale of multiple days to weeks we can begin training a model to detect similar moments in the future. With limited training the signals produced by the model produced the following results in comparison to the buy and hold and "perfect" knowledge trading strategies:
 
- Buy and hold:
+**Buy and hold**:
+ 
+Total Return: 654.82%
+
+Daily Sharpe: 1.03
+
+Avg. Up Month: 30.76%
+
+Avg. Down Month: -12.72%
  
  "Perfect" predictions:
  
