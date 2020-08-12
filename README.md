@@ -19,11 +19,11 @@ The model is designed to predict a good time to either buy or sell your inventor
 ### **Training and Results**
 Using these as a baseline for trading  we can begin training a model to detect similar moments in the future. Ideal signals from 2017-2018 were used to train the model which was then tested against the following year of pricing data. For comparison the model's returns were compared to a simple buy-and-hold strategy as well as the returns that would have been made with perfect knowledge. Results were as follows:
 
-**Buy and hold**:
-Total Return: 654.82%
-Daily Sharpe: 1.03
-Avg. Up Month: 30.76%
-Avg. Down Month: -12.72%
+**Buy and hold**:  
+Total Return: 654.82%  
+Daily Sharpe: 1.03  
+Avg. Up Month: 30.76%  
+Avg. Down Month: -12.72%  
  
 **"Perfect" predictions**:
 Total Return: 105033.3%
